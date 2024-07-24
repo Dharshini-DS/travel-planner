@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #f81616; /* Change this to your desired background color */
+}
+
+.MuiCard-root {
+  margin-bottom: 20px;
+  background-color: #e71212; /* Optional: Change the card background color */
+}
+
+.card-section {
+  background-color: #f71212; /* Background color for each card section */
+  padding: 20px;
+  border-radius: 8px;
+}
+
